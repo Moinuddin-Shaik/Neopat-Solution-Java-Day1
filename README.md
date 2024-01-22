@@ -1,7 +1,9 @@
  <h1 align="center"><i>First year even semester neopat solution's of Java</i></h1>
 
- ## Day 1 - Java Fundamentals:
- ## Class Exercises Lab (5 Qn's)
+ <h2 align="center"> Day 1 - Java Fundamentals: </h2>
+ 
+ <h1 align="center"> Class Exercises Lab (5 Qn's) </h1>
+ 
  ### 1.Ramu and Somu are going on a picnic...,
 ```java
 import java.util.Scanner;
@@ -128,9 +130,9 @@ public static void Quantity (int r){
 }
 ```
 
+</br>
 
-
-## Practice at home lab (10 qn's)
+<h1 align="center">Practice at home lab (10 qn's) </h1> 
 
 ### 1. Write a Multiply function for two integers and use overload the function..,
 ```java
