@@ -127,3 +127,57 @@ public static void Quantity (int r){
 } 
 }
 ```
+
+
+
+## Practice at home lab (10 qn's)
+
+### 1. Write a Multiply function for two integers and use overload the function..,
+```java
+
+```
+
+### 2. Ajju has a Carom board and TT table (Table Tennis)..,
+```java
+
+```
+
+### 3. Write a program to move all the special characters to the end of the string..,
+```java
+
+```
+
+### 4. Overriding is another concept that every application developer should know..,
+```java
+
+```
+
+### 5. Create a multilevel inheritance based on the image given below..,
+```java
+
+```
+
+### 6. Write a Java program to create a class named "Birds" that contains a constructor that prints "Birds : "..,
+```java
+
+```
+
+### 7. Write a program to illustrate dynamic polymorphism, create two classes Vehicle and Motorbike..,
+```java
+
+```
+
+### 8. Function Overloading. Write a program to implement function overloading..,
+```java
+
+```
+
+### 9. You are in an Online shopping portal.It has two types of members, Basic and Premium..,
+```java
+
+```
+
+### 10. Write a Java program to demonstrate method overriding and dynamic method dispatch..,
+```java
+
+```
