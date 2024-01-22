@@ -23,6 +23,8 @@ public class Main {
 }
 ```
 
+</br>
+
 ### 2.Seetha was shocked after seeing her electricity bill for May month...,
 ```java
 // You are using Java
@@ -49,6 +51,8 @@ class Main {
 }
 ```
 
+</br>
+
 ### 3.After explaining the concept of prime numbers, Seetha explained about prime factors to her students..,
 ```java
 // You are using Java
@@ -74,6 +78,7 @@ public class Main {
     }
 }
 ```
+</br>
 
 ### 4.Seetha, a maths teacher explained Matrix addition, subtraction and multiplication in her class..,
 ```java
@@ -113,6 +118,7 @@ public class Main {
     }
 }
 ```
+</br>
 
 ### 5.An ice-cream vendor sells his ice-creams in cone(radius r and height h) and ball(radius r) shaped containers..,
 - leave the header and footer part as it is.
@@ -136,50 +142,76 @@ public static void Quantity (int r){
 
 ### 1. Write a Multiply function for two integers and use overload the function..,
 ```java
-
+// You are using Java
+public int Multiply(int a, int b){
+    return a*b;
+}
+public int Multiply(int c, int d, int e){
+    return c*d*e;
+}
 ```
+
+</br>
 
 ### 2. Ajju has a Carom board and TT table (Table Tennis)..,
 ```java
 
 ```
 
+</br>
+
 ### 3. Write a program to move all the special characters to the end of the string..,
 ```java
 
 ```
+
+</br>
 
 ### 4. Overriding is another concept that every application developer should know..,
 ```java
 
 ```
 
+</br>
+
 ### 5. Create a multilevel inheritance based on the image given below..,
 ```java
 
 ```
+
+</br>
 
 ### 6. Write a Java program to create a class named "Birds" that contains a constructor that prints "Birds : "..,
 ```java
 
 ```
 
+</br>
+
 ### 7. Write a program to illustrate dynamic polymorphism, create two classes Vehicle and Motorbike..,
 ```java
 
 ```
+
+</br>
 
 ### 8. Function Overloading. Write a program to implement function overloading..,
 ```java
 
 ```
 
+</br>
+
 ### 9. You are in an Online shopping portal.It has two types of members, Basic and Premium..,
 ```java
 
 ```
 
+</br>
+
 ### 10. Write a Java program to demonstrate method overriding and dynamic method dispatch..,
 ```java
 
 ```
+
+</br>
