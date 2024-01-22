@@ -30,3 +30,13 @@ public class Main {
 ```java
 
 ```
+
+### 4.Seetha, a maths teacher explained Matrix addition, subtraction and multiplication in her class..,
+```java
+
+```
+
+### 5.An ice-cream vendor sells his ice-creams in cone(radius r and height h) and ball(radius r) shaped containers..,
+```java
+
+```
