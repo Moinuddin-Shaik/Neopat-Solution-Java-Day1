@@ -1,6 +1,42 @@
  <h1 align="center"><i>First year even semester neopat solution's of Java</i></h1>
 
  <h2 align="center"> Day 1 - Java Fundamentals: </h2>
+
+<h3 align="center">DAY-01 MCQ:</h3>
+
+*Option Number*
+
+- 1,
+- 2,
+- 3,
+- 4,
+- 5,
+- 6,
+- 7,
+- 8,
+- 9,
+- 10,
+- 11,
+- 12,
+- 13,
+- 14,
+- 15,
+- 16,
+- 17,
+- 18,
+- 19,
+- 20,
+- 21,
+- 22,
+- 23,
+- 24,
+- 25,
+- 26,
+- 27,
+- 28,
+- 29,
+- 30,
+
  
  <h1 align="center"> Class Exercises Lab (5 Qn's) </h1>
  
