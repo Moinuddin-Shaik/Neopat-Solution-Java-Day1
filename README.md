@@ -108,9 +108,8 @@ public class Main {
                 a = a/i;
             }
         }
-        if(a>2){
-            System.out.print(a+" ");
-        }
+        if(a>2)
+            System.out.print(a);
     }
 }
 ```
